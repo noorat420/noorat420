@@ -1,5 +1,5 @@
 
-## 👩‍💻 About Me<br><br>Hi, I'm **Noora T**, a passionate **Full-Stack Developer** focusing on **React.js** and **Python (Django/Flask)**.  <br>I love building responsive, modern web applications and continuously improving my coding skills.  <br><br>🚀 Always learning. Always creating.  <br>📫 Connect with me on [LinkedIn](#)<br>
+<br><br>Hi, I'm **Noora T**, a passionate **Full-Stack Developer** focusing on **React.js** and **Python (Django/Flask)**.  <br>I love building responsive, modern web applications and continuously improving my coding skills.  <br><br>Always learning. Always creating.  <br>📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/noora-t/)<br>
 
 
 ## 🌐 Socials:
